@@ -21,3 +21,7 @@ Webservice: scholarship directory for Paraguayan students.
 # License
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE.txt](LICENSE.txt) file for details
+
+#notes 
+ Forked para subir online, para el deploy en heroku.
+ Foked to upload online, to deploy in heroku 
